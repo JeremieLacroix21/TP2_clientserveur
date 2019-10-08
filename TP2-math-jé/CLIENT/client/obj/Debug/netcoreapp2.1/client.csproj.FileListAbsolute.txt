@@ -1,0 +1,11 @@
+D:\Users\201756835\source\repos\TP2_MATHJÉ\client\bin\Debug\netcoreapp2.1\client.deps.json
+D:\Users\201756835\source\repos\TP2_MATHJÉ\client\bin\Debug\netcoreapp2.1\client.runtimeconfig.json
+D:\Users\201756835\source\repos\TP2_MATHJÉ\client\bin\Debug\netcoreapp2.1\client.runtimeconfig.dev.json
+D:\Users\201756835\source\repos\TP2_MATHJÉ\client\bin\Debug\netcoreapp2.1\client.dll
+D:\Users\201756835\source\repos\TP2_MATHJÉ\client\bin\Debug\netcoreapp2.1\client.pdb
+D:\Users\201756835\source\repos\TP2_MATHJÉ\client\obj\Debug\netcoreapp2.1\client.csprojAssemblyReference.cache
+D:\Users\201756835\source\repos\TP2_MATHJÉ\client\obj\Debug\netcoreapp2.1\client.csproj.CoreCompileInputs.cache
+D:\Users\201756835\source\repos\TP2_MATHJÉ\client\obj\Debug\netcoreapp2.1\client.AssemblyInfoInputs.cache
+D:\Users\201756835\source\repos\TP2_MATHJÉ\client\obj\Debug\netcoreapp2.1\client.AssemblyInfo.cs
+D:\Users\201756835\source\repos\TP2_MATHJÉ\client\obj\Debug\netcoreapp2.1\client.dll
+D:\Users\201756835\source\repos\TP2_MATHJÉ\client\obj\Debug\netcoreapp2.1\client.pdb
